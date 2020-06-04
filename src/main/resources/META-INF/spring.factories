@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+pl.jacekniezgoda.aws.actuator.s3.S3HealthIndicatorConfiguration,\
+pl.jacekniezgoda.aws.actuator.sns.SNSHealthIndicatorConfiguration
+
